@@ -1,4 +1,4 @@
-# 
+# Exclusivo TextForge script. Baixe e instale com acesso à API e otimizado para GPU — rápido, seguro e fácil de usar.
 
 
 
